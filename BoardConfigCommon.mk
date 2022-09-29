@@ -144,7 +144,7 @@ BOARD_KERNEL_IMAGE_NAME := Image.gz-dtb
 TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_HEADER_ARCH := arm64
 TARGET_KERNEL_VERSION := 4.19
-TARGET_KERNEL_SOURCE := kernel/xiaomi/lavender
+TARGET_KERNEL_SOURCE := kernel/xiaomi/660
 
 # Enable stats logging in LMKD
 TARGET_LMKD_STATS_LOG := true
